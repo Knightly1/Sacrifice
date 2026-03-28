@@ -1,0 +1,3 @@
+[submodule "knightlinc"]
+	path = knightlinc
+	url = https://gitlab.com/Knightly1/knightlinc.git
